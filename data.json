@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Snehashis",
+        "age": 21,
+        "isMar": false,
+        "placedIn": "TCS"
+    },
+    {
+        "name": "Shailee",
+        "age": 21,
+        "isMar": false,
+        "placedIn": "Persistent"
+    }
+]
